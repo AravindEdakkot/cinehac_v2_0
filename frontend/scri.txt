@@ -1,0 +1,80 @@
+SCENE S1.T1: THE RED WIRE
+INT. ABANDONED SERVER ROOM - NIGHT
+
+The room is cold, lit only by the flickering emergency light and the harsh glow of DR. ARIS THORNE's (50s, sharp, dishevelled) headlamp. Dust motes dance in the weak light. ARIS kneels next to a ticking DEVICE strapped to a cluster of ancient server racks.
+
+Opposite him, CHLOE (20s, calm, focused, communications expert) holds a cracked tablet, relaying instructions.
+
+<center>CHLOE (O.S.)</center>
+> They’re three minutes out, Aris. We’re losing the signal stability. Tell me what you see.
+
+ARIS’s fingers hover over a mess of wires: blue, yellow, and a glaring, singular red. The timer on the device blinks 00:01:45.
+
+<center>ARIS</center>
+> I see three lines. The schematics show two. The blue and the yellow are connected to the primary power grid. Standard fail-safe. But there’s a red wire.
+
+<center>CHLOE (O.S.)</center>
+> Red. That's not in the documentation. We have no data on a bypass loop.
+
+<center>ARIS</center>
+> It’s braided. Military grade. If I cut either of the standard lines, the charge will dissipate harmlessly. But the red one… it bypasses the entire suppression circuit.
+
+Aris wipes sweat from his brow. He stares into the reflection on the device's housing.
+
+<center>ARIS</center>
+> If I cut the red, it initiates the overload immediately. No dampening. It’s a dead man's switch.
+
+<center>CHLOE (O.S.)</center>
+> Wait. The analyst suggested the only way to fully delete the data, past the encryption, was a sudden, overwhelming surge. Aris… that red wire might not be a trap. It might be the key.
+
+<center>ARIS</center>
+> (A shaky exhale)
+> You’re telling me to cut the wire that actively kills us faster. This is high-risk.
+
+<center>CHLOE (O.S.)</center>
+> The data lives or dies with that surge. The blue and yellow are the safe choice. The red is the mission. You only get one chance. 00:01:05.
+
+Aris closes his eyes, picturing the complex circuitry. He picks up the small, worn wire cutter.
+
+SCENE S1.T2: THE DECISION
+INT. ABANDONED SERVER ROOM - CONTINUOUS
+
+Aris's hands are rock steady now. The blue and yellow wires are thick, promising safety. The red is thin, coiled tight, humming faintly.
+
+<center>CHLOE (O.S.)</center>
+> What’s the read, Aris?
+
+<center>ARIS</center>
+> The red wire… it connects to the backup magnetic shield. A shield only activated to survive a blast. They knew someone would try to overload the system. They built the surge to survive the data deletion.
+
+<center>CHLOE (O.S.)</center>
+> (A quiet realization)
+> So if you cut the blue or yellow, you destroy the data but survive the explosion. If you cut the red… you destroy their shield first.
+
+<center>ARIS</center>
+> Exactly. I cut the red one, and when the surge comes, the device overloads the core entirely. No shield. No data. No escape.
+
+The sound of heavy BOOTS grows closer in the distance.
+
+<center>CHLOE (O.S.)</center>
+> Twenty seconds, Aris.
+
+Aris looks down at the red wire, then at the timer: 00:00:18.
+
+<center>ARIS</center>
+> (Into his mic, a cold resolve)
+> Chloe, I’m cutting the red. Clear the extraction point.
+
+<center>CHLOE (O.S.)</center>
+> Understood. See you soon, Doctor.
+
+The sound of the boots is now just outside the heavy steel door. ARIS places the wire cutters around the RED WIRE. He pauses for a single beat.
+
+<center>ARIS</center>
+> Goodbye, Chloe.
+
+SNIP.
+
+The room plunges into absolute darkness. A powerful, rising HUM begins, shaking the entire structure.
+
+FADE TO BLACK.

@@ -1,0 +1,19 @@
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #000000;
+  color: #000000;
+  font-family: sans-serif;
+  font-size: 1.2rem;
+  gap: 1rem;
+}
+
+.loading-video {
+  width: 400px;
+  height: 400px;
+  border-radius: 10px;
+  object-fit: cover;
+}
