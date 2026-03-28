@@ -7,6 +7,11 @@ This is a simple React project built for Film makers to manage their film making
 ![Login Page](https://github.com/AravindEdakkot/cinehac_v2_0/raw/450356bff76cd3164bda48f3489cdf0147edabff/Screenshot_28-3-2026_151329_localhost.jpeg)
 
 This is an animated landing page for the Filmhub dashboard.
+Director   → username: director   | password: dir123  
+Producer   → username: producer   | password: pro123  
+Manager    → username: manager    | password: man123  
+Accountant → username: accountant | password: acc123  
+
 
 ---
 
