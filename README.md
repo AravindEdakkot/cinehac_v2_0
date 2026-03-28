@@ -42,7 +42,9 @@ Manages daily production, tracks equipment, and monitors post-production progres
 
 ---
 
-> ⚠️ **Note:** Update `.env` with your Google API key.
+
+> [!NOTE]
+> Update `.env` with your Google API key before running the project.
 
 ## run front end
 cd frontend
