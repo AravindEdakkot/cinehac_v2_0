@@ -5,7 +5,7 @@ A film-production management dashboard built with Django (Python 3.11) and React
 This is a simple React project built for Film makers to manage their film making with dynamic dashboard which connects all the departments within the company.
 
 ## Login page
-!(alt_image)[https://github.com/AravindEdakkot/cinehac_v2_0/blob/450356bff76cd3164bda48f3489cdf0147edabff/Screenshot_28-3-2026_151329_localhost.jpeg]
+!(alt_image)[https://github.com/AravindEdakkot/cinehac_v2_0/raw/450356bff76cd3164bda48f3489cdf0147edabff/Screenshot_28-3-2026_151329_localhost.jpeg]
 This is a animated landing page for the Filmhub dashboard
 
 ##Director Dashboard
