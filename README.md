@@ -1,8 +1,30 @@
 # FilmHub
-
 A film-production management dashboard built with Django (Python 3.11) and React (Vite).
 
 This is a simple React project built for Film makers to manage their film making with dynamic dashboard which connects all the departments within the company.
+
+
+> [!NOTE]
+> Update `.env` with your Google API key before running the project.
+
+---
+## Run Frontend
+
+ ```powershell
+cd frontend
+npm install
+npm start
+```
+
+## Run node
+```powershell
+cd Production-dashboard
+npm install 
+node -r dotenv/config server.js
+```
+
+
+
 ## Login Page
 ![Login Page](https://github.com/AravindEdakkot/cinehac_v2_0/raw/450356bff76cd3164bda48f3489cdf0147edabff/Screenshot_28-3-2026_151329_localhost.jpeg)
 
@@ -48,23 +70,4 @@ Manages daily production, tracks equipment, and monitors post-production progres
 
 ---
 
-
-> [!NOTE]
-> Update `.env` with your Google API key before running the project.
-
----
-## Run Frontend
-
- ```powershell
-cd frontend
-npm install
-npm start
-```
-
-## Run node
-```powershell
-cd Production-dashboard
-npm install 
-node -r dotenv/config server.js
-```
 
