@@ -55,19 +55,16 @@ Manages daily production, tracks equipment, and monitors post-production progres
 ---
 ## Run Frontend
 
+ ```powershell
 cd frontend
-
 npm install
-
 npm start
-
+```
 
 ## Run node
-
+```powershell
 cd Production-dashboard
-
 npm install 
-
 node -r dotenv/config server.js
-
+```
 
