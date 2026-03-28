@@ -1,4 +1,4 @@
-# filmhub
+# FilmHub
 
 A film-production management dashboard built with Django (Python 3.11) and React (Vite).
 
