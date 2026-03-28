@@ -46,17 +46,14 @@ Manages daily production, tracks equipment, and monitors post-production progres
 > [!NOTE]
 > Update `.env` with your Google API key before running the project.
 
-## run front end
+---
+## Run Frontend
 cd frontend
-
 npm install
-
 npm start
-
-## run node
-
+---
+## Run node
 cd Production-dashboard
-
 npm install 
-
 node -r dotenv/config server.js
+---
